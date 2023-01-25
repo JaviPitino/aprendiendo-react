@@ -1,5 +1,4 @@
-# aprendiendo-react
-Proyectos
+# Proyectos
 
 01: [Twitter Follow Card](https://github.com/JaviPitino/aprendiendo-react/tree/master/projects/01-Twitter-card)
 
